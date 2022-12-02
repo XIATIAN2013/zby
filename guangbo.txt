@@ -1,6 +1,9 @@
 📻有声广播频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
 
+怀集音乐PM3,http://lhttp.qingting.fm/live/4804/64k.mp3
+怀集音乐m3u8,http://cnlive.cnr.cn/hls/hjyyzs.m3u8
+
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
 中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
 安徽MIX961,https://ls.qingting.fm/live/20211718/64k.m3u8
