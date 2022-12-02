@@ -1,11 +1,14 @@
-📻有声广播频道,#genre#
-测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
+
+📻大佬广播频道,#genre#
 
 怀集音乐PM3,http://lhttp.qingting.fm/live/4804/64k.mp3
 怀集音乐m3u8,http://cnlive.cnr.cn/hls/hjyyzs.m3u8
 
+📻中央广播频道,#genre#
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
 中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
+
+📻安徽广播频道,#genre#
 安徽MIX961,https://ls.qingting.fm/live/20211718/64k.m3u8
 安徽蚌埠交通文艺,https://ls.qingting.fm/live/4577/64k.m3u8
 安徽蚌埠经典,https://ls.qingting.fm/live/20152/64k.m3u8
@@ -33,6 +36,8 @@
 安徽亳州电台新闻综合,https://ls.qingting.fm/live/20207787/64k.m3u8
 安徽界首新闻综合,https://ls.qingting.fm/live/20207785/64k.m3u8
 安徽义安区天井湖之声,https://ls.qingting.fm/live/5021979/64k.m3u8
+
+📻北京广播频道,#genre#
 北京音乐,https://ls.qingting.fm/live/332/64k.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
 北京交通,https://ls.qingting.fm/live/336/64k.m3u8
@@ -48,11 +53,15 @@
 北京怀旧金曲,https://ls.qingting.fm/live/5021381/64k.m3u8
 北京怀旧音乐,https://ls.qingting.fm/live/20211619/64k.m3u8
 北京欧美老歌,https://ls.qingting.fm/live/20211620/64k.m3u8
+
+📻重庆广播频道,#genre#
 重庆万盛,https://ls.qingting.fm/live/15318480/64k.m3u8
 重庆永川音乐,https://ls.qingting.fm/live/20210236/64k.m3u8
 重庆梁平之声,https://ls.qingting.fm/live/20211646/64k.m3u8
 重庆大足之声,https://ls.qingting.fm/live/20211676/64k.m3u8
 重庆嘉陵之声,https://ls.qingting.fm/live/20211692/64k.m3u8
+
+📻福建广播频道,#genre#
 福建福州音乐,https://ls.qingting.fm/live/4846/64k.m3u8
 福建福州交通之声,https://ls.qingting.fm/live/5026/64k.m3u8
 福建福州新闻,https://ls.qingting.fm/live/5025/64k.m3u8
@@ -70,11 +79,16 @@
 福建福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
 福建福州音乐广播,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 福建福州左海之声,http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+
+📻甘肃广播频道,#genre#
 甘肃兰州新闻,https://ls.qingting.fm/live/1712/64k.m3u8
 甘肃天水综合,https://ls.qingting.fm/live/20460/64k.m3u8
 甘肃酒泉综合,https://ls.qingting.fm/live/20211633/64k.m3u8
 甘肃酒泉宿州,https://ls.qingting.fm/live/15318602/64k.m3u8
 甘肃定西交通,https://ls.qingting.fm/live/20212230/64k.m3u8
+
+
+📻广东广播频道,#genre#
 广东新兴,https://ls.qingting.fm/live/20211602/64k.m3u8
 广东廉江,https://ls.qingting.fm/live/20211578/64k.m3u8
 广东增城,https://ls.qingting.fm/live/20211702/64k.m3u8
@@ -117,6 +131,9 @@
 广东阳江旅游,https://ls.qingting.fm/live/15318428/64k.m3u8
 广东云浮综合,https://ls.qingting.fm/live/5022442/64k.m3u8
 广东云浮音乐,https://ls.qingting.fm/live/5022441/64k.m3u8
+
+
+📻广西广播频道,#genre#
 广西桂林飞扬调频,https://ls.qingting.fm/live/1760/64k.m3u8
 广西桂林新闻综合,https://ls.qingting.fm/live/1759/64k.m3u8
 广西桂林生活,https://ls.qingting.fm/live/15318228/64k.m3u8
@@ -134,6 +151,8 @@
 广西北海新闻综合,https://ls.qingting.fm/live/20861/64k.m3u8
 广西北海交通音乐,https://ls.qingting.fm/live/20211621/64k.m3u8
 广西贺州综合,https://ls.qingting.fm/live/5043/64k.m3u8
+
+📻贵州广播频道,#genre#
 贵州交通,https://ls.qingting.fm/live/20057/64k.m3u8
 贵州旅游,https://ls.qingting.fm/live/20059/64k.m3u8
 贵州音乐,https://ls.qingting.fm/live/20067/64k.m3u8
@@ -159,6 +178,8 @@
 贵州大方综合,https://ls.qingting.fm/live/15318100/64k.m3u8
 贵州赤水交通旅游,https://ls.qingting.fm/live/15318533/64k.m3u8
 贵州铜仁交通旅游,https://ls.qingting.fm/live/20211615/64k.m3u8
+
+📻河南广播频道,#genre#
 河南经济,https://ls.qingting.fm/live/1216/64k.m3u8
 河南农村,https://ls.qingting.fm/live/1218/64k.m3u8
 河南新闻,https://ls.qingting.fm/live/1215/64k.m3u8
@@ -214,6 +235,9 @@
 河南安阳音悦,https://ls.qingting.fm/live/2123/64k.m3u8
 河南安阳新闻综合,https://ls.qingting.fm/live/15318224/64k.m3u8
 河南安阳交通,https://ls.qingting.fm/live/2138/64k.m3u8
+
+
+📻河北广播频道,#genre#
 河北音乐,https://ls.qingting.fm/live/1649/64k.m3u8
 河北音乐,https://ls.qingting.fm/live/20212269/64k.m3u8
 河北新闻,https://ls.qingting.fm/live/1644/64k.m3u8
@@ -258,6 +282,8 @@
 河北辛集音乐,https://ls.qingting.fm/live/5021959/64k.m3u8
 河北魏县,https://ls.qingting.fm/live/20212412/64k.m3u8
 河北定州音乐,https://ls.qingting.fm/live/20211638/64k.m3u8
+
+📻广播频道,#genre#
 湖南经济,https://ls.qingting.fm/live/4983/64k.m3u8
 湖南摩登音乐台,https://ls.qingting.fm/live/4980/64k.m3u8
 湖南旅游年代音乐,https://ls.qingting.fm/live/4981/64k.m3u8
