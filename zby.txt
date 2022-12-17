@@ -4170,7 +4170,6 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 
 🍊百视频道,#genre#
 测试频道,https://www.notabug.org/xiatian2021/zby/raw/master/draw0065.mp4
-
 BesTV春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 BesTV跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
 BesTV健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
@@ -4179,43 +4178,51 @@ BesTV戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
 BesTV美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
 BesTV音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
 BesTV斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
+BesTV泰上头,http://bp-caster.bestv.com.cn/490/1/video.m3u8
 BesTV搞笑穿越,http://bp-caster.bestv.com.cn:80/361/play.m3u8
 BesTV下饭爽剧,http://bp-caster.bestv.com.cn:80/322/play.m3u8
 BesTV解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
 BesTV上头正剧,http://bp-caster.bestv.com.cn/501/1/video.m3u8
 BesTV悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
 BesTV烈焰青春,http://bp-caster.bestv.com.cn/439/1/video.m3u8
+BesTV烈焰青春,http://bp-caster.bestv.com.cn:80/439/play.m3u8
 BesTV烈火英雄,http://bp-caster.bestv.com.cn/564/1/video.m3u8
 BesTV猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
 BesTV猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
+BesTV猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
 BesTV童年国漫,https://bp-caster.bestv.com.cn:443/249/play.m3u8
 BesTV童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
 BesTV狗血集合,http://bp-caster.bestv.com.cn/569/1/video.m3u8
 BesTV布衣天子,http://bp-caster.bestv.com.cn/468/1/video.m3u8
 BesTV神奇公司,http://bp-caster.bestv.com.cn/356/1/video.m3u8
+BesTV神奇公司,http://bp-caster.bestv.com.cn:80/356/play.m3u8
 BesTV重返20岁,http://bp-caster.bestv.com.cn/562/1/video.m3u8
-BesTV烈焰青春,http://bp-caster.bestv.com.cn:80/439/play.m3u8
 BesTV我们的歌,http://bp-caster.bestv.com.cn:80/378/1/video.m3u8
 BesTV我们的歌,http://bp-caster.bestv.com.cn/378/1/video.m3u8
 BesTV花样姐姐,http://bp-caster.bestv.com.cn/559/1/video.m3u8
 BesTV极限挑战,http://bp-caster.bestv.com.cn/511/1/video.m3u8
+BesTV人文秘境,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+BesTV介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
 BesTV金曲青春,http://bp-caster.bestv.com.cn/561/1/video.m3u8
 BesTV七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
 BesTV云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
-BesTV神奇公司,http://bp-caster.bestv.com.cn:80/356/play.m3u8
 BesTV三十正美丽,http://bp-caster.bestv.com.cn/492/1/video.m3u8
 BesTV医护那些事,http://bp-caster.bestv.com.cn/493/1/video.m3u8
 BesTV宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
 BesTV高能脱口秀,http://bp-caster.bestv.com.cn/462/1/video.m3u8
 BesTV追光吧哥哥,http://bp-caster.bestv.com.cn/460/1/video.m3u8
+BesTV相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
+BesTV相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
+BesTV科学大爆炸,http://bp-caster.bestv.com.cn:80/333/play.m3u8
 BesTV不朽的传承,http://bp-caster.bestv.com.cn:80/437/2/video.m3u8
 BesTV完美的夏天,http://bp-caster.bestv.com.cn:80/377/2/video.m3u8
 BesTV完美的夏天,http://bp-caster.bestv.com.cn/510/1/video.m3u8
-BesTV名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
 BesTV迷案上海滩,http://bp-caster.bestv.com.cn/494/1/video.m3u8
+BesTV名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
 BesTV海派滑稽戏,https://bp-caster.bestv.com.cn:443/250/play.m3u8
 BesTV高颜值偶像剧,http://bp-caster.bestv.com.cn:80/328/play.m3u8
 BesTV越剧名家名段,http://bp-caster.bestv.com.cn:80/320/play.m3u8
+BesTV打工人奋斗史,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 
 
 ---20221115标记
